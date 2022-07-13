@@ -12,7 +12,7 @@ Welcome to `Codher Python Intermediate` Track. <br>
 We will be kick-starting you with the knowledge of `Django Framework.` <br>
 
 <p>
-<span style="font-weight:bold; color: #04AA6D">Django</span> is a popular web framework built on top of Python. It helps programmers rapidly create maintainable and flexiable web applications powered by an <span style="color: #FEF200">SQL Database.</span>
+<b style="color: #04AA6D">Django</b> is a popular web framework built on top of Python. It helps programmers rapidly create maintainable and flexiable web applications powered by an <b style="color: #FEF200">SQL Database.</b>
 </p>
 
 This repo will be your guidebook throughout the span of two weeks. <br>
