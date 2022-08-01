@@ -3,7 +3,7 @@
 ### Creating a virtual environment
 
 1. Open a new project in VSCode under a suitable directory
-    - Open inline terminal and create a new virtual environment by choosing a Python interpreter and making a `./venv` directory to hold it:
+    - Open inline terminal and create a new virtual environment by choosing a Python interpreter and making a `./venv` directory to hold it.
     - Ubuntu - `python3 -m venv ./venv`
     - macOS - `python3 -m venv ./venv`
     - Windows - `C:\> python3 -m venv ./venv`
@@ -16,5 +16,9 @@
 
 ### Important Links
 
+<<<<<<< HEAD
 <>
     [Django Official Docs](https://docs.djangoproject.com/en/4.0/)<br>
+=======
+    <a href="https://docs.djangoproject.com/en/4.0/">Django Official Docs</a>
+>>>>>>> 43238d78ec121e0b579eb878503e93f585d1736c
