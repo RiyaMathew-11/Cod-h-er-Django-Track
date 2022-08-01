@@ -16,9 +16,5 @@
 
 ### Important Links
 
-<<<<<<< HEAD
 <>
     [Django Official Docs](https://docs.djangoproject.com/en/4.0/)<br>
-=======
-    <a href="https://docs.djangoproject.com/en/4.0/">Django Official Docs</a>
->>>>>>> 43238d78ec121e0b579eb878503e93f585d1736c
